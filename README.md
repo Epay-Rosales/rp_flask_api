@@ -4,7 +4,7 @@ Following a Real Python tutorial (and its source code, see credit below), I crea
 
 The next step in the proect is to set up a persistent database with such tools as SQLite3 and SQLAlchemy. I've hit a roadblock. I keep getting an indentation error. Now, as a technical writer, that might seem like beyond my scope. I'm just glad that I got the Swagger UI up and running. I still want to complete the Real Python series (there are three), so that will be the next fix.
 
-## Author
+## Credits to this Author
 
 - **Philipp Acsany**, E-mail: [philipp@realpython.com](philipp@realpython.com)
 
